@@ -11,3 +11,6 @@
 
 #### 装饰器模式
 [装饰器模式](https://mp.weixin.qq.com/s/XG2G1O67o-p_u_MPj5N0oQ)
+
+#### 适配器模式
+[适配器模式](https://mp.weixin.qq.com/s/g1xKCmRMqxP9DmtW208A6w)
