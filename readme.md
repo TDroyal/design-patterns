@@ -14,3 +14,6 @@
 
 #### 适配器模式
 [适配器模式](https://mp.weixin.qq.com/s/g1xKCmRMqxP9DmtW208A6w)
+
+#### 建造者模式
+[建造者模式](https://mp.weixin.qq.com/s/PuDyI0hA2xZsCwh7imyxoQ)
